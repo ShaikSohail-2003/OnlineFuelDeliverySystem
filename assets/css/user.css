@@ -68,7 +68,7 @@ h1{
   color: #FFF;
 }
 
-#mapOfStation{
+mapOfStation{
   border:2px solid #d16d1d;
   width: 700px;
   height: 500px;
@@ -77,11 +77,11 @@ h1{
   background-color: #FFF;
 }
 
-#canceledOrderHeader{
+canceledOrderHeader{
   color: #FFF;
   font-size: 20px;
 }
 
-#confirmButton{
+confirmButton{
   margin-right: 40px;
 }
